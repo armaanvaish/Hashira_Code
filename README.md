@@ -6,7 +6,7 @@ This repository contains solutions in C for the polynomial coefficient problem.
 
 ## Test Case 1
 - Input: n=4, k=3
-- Output: 1 -11 28
+- Output: 3
 - Code: [test1.c](test1.c)
 
 ## Test Case 2
